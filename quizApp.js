@@ -69,9 +69,9 @@ console.log('My users Array and my questions array are ...');
 
   //code here
   for(var i = 0; i < quizUsers.length; i++) {
-    console.log(i);
+    console.log(quizUsers[i]);
   }
 
   for(var i = 0; i < questions.length; i++) {
-    console.log(i);
+    console.log(questions[i]);
   }
